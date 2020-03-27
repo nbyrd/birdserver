@@ -1,0 +1,19 @@
+{
+  "name": "birdserver",
+  "version": "1.0.0",
+  "description": "Backend for storing and serving feedercam photos",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nbyrd/birdserver.git"
+  },
+  "author": "Nick Byrd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbyrd/birdserver/issues"
+  },
+  "homepage": "https://github.com/nbyrd/birdserver#readme"
+}
